@@ -17,6 +17,8 @@ if (pageName === 'english.html') {
     currentSubject = 'science';
 } else if (pageName === 'hindi.html') {
     currentSubject = 'hindi';
+} else if (pageName === 'sst.html') {
+    currentSubject = 'sst';
 }
 
 // Fetch chapters for the subject
