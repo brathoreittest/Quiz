@@ -58,7 +58,7 @@ function loadQuestions(chapter) {
         })
         .then(questions => {
             // Select 20 random questions (or all if there are fewer than 20)
-            selectedChapterQuestions = getRandomQuestions(questions, 20);
+            selectedChapterQuestions = getRandomQuestions(questions, 30);
             currentChapter = chapter; // Update the current chapter
             renderQuestions();
         })
