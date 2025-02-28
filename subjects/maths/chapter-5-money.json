@@ -7,7 +7,7 @@
             "\u20b94",
             "\u20b957"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     },
     {
         "question": "One mathematics workbook costs \u20b9150. There are 40 students in your class. What is the total cost of 40 workbooks?",
@@ -455,7 +455,7 @@
             "Both are equal",
             "Cannot be determined"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
     },
     {
         "question": "What is the sum of \u20b9575.25 and \u20b9480.75?",
