@@ -700,16 +700,6 @@
         "correctAnswer": 0
     },
     {
-        "question": "Which of the following is NOT a NCF feature listed in the lesson?",
-        "choices": [
-            "Subject Integration",
-            "Rootedness in India",
-            "Divergent Thinking",
-            "Financial Literacy"
-        ],
-        "correctAnswer": 3
-    },
-    {
         "question": "What does the 'Panch' do in the lesson?",
         "choices": [
             "They solve the Sonagaon's problem together",
@@ -728,36 +718,6 @@
             "enemies"
         ],
         "correctAnswer": 2
-    },
-    {
-        "question": "What is suggested as an assessment tool recommended in NCF 2023?",
-        "choices": [
-            "Quiz",
-            "Exam",
-            "Presentation",
-            "Project"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "According to the text, Collaboration is one of the key skills outlined in what?",
-        "choices": [
-            "NCF 2005",
-            "NEP 2020",
-            "RTE Act 2009",
-            "NITI Aayog Strategy 2018"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Collaboration is one of the key skills outlined in?",
-        "choices": [
-            "NEP 2020",
-            "NCF 2020",
-            "NCERT 2020",
-            "CBSE 2020"
-        ],
-        "correctAnswer": 0
     },
     {
         "question": "The Panch work together to solve ________ problem.",
