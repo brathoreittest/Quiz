@@ -1,571 +1,246 @@
 [
     {
-        "question": "_________ is your name?",
+        "question": "Many adverbs are formed by adding ___ to adjectives.",
         "choices": [
-            "How?",
-            "Why?",
-            "What?"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "_________ are you coming home?",
-        "choices": [
-            "How?",
-            "Why?",
-            "When?"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "_________ is your bat?",
-        "choices": [
-            "Why?",
-            "Who?",
-            "Where?"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "_________ is the Principal of the school?",
-        "choices": [
-            "Who?",
-            "What?",
-            "When?"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "_________ did you meet at the mall?",
-        "choices": [
-            "What?",
-            "When?",
-            "Which?"
+            "-ing",
+            "-ly",
+            "-ed",
+            "-s"
         ],
         "correctAnswer": 1
     },
     {
-        "question": "_________ do we have for lunch?",
+        "question": "Adverbs tell us more about:",
         "choices": [
-            "What?",
-            "When?",
-            "Which?"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "_________ is your car?",
-        "choices": [
-            "Which?",
-            "Where?",
-            "How many?"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "_________ is your umbrella?",
-        "choices": [
-            "Which?",
-            "Where?",
-            "How many?"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "_________ is the time by your watch?",
-        "choices": [
-            "What?",
-            "When?",
-            "How many?"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "_________ did you return?",
-        "choices": [
-            "Where?",
-            "When?",
-            "Why?"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Which word best completes sentence 1: _____ is the Christmas card we got from our friends.",
-        "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "Which word best completes sentence 2: _____ are my little cousin's favorite building blocks.",
-        "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Which word best completes sentence 3: _____ are my brother's colored pencils.",
-        "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
+            "Nouns",
+            "Adjectives",
+            "Verbs",
+            "Pronouns"
         ],
         "correctAnswer": 2
     },
     {
-        "question": "Which word best completes sentence 4: _____ is a deckchair, I use to sunbathe.",
+        "question": "Adjectives tell us more about:",
         "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "Which word best completes sentence 5: _____ is my favourite blue jeans.",
-        "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "Which word best completes sentence 6: _____ are the only Hindi books I have.",
-        "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Which word best completes sentence 7: _____ is a nice watering can, I bought last week.",
-        "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Which word best completes sentence 8: _____ is Tina's silk scarf she bought in London.",
-        "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
+            "Verbs",
+            "Adverbs",
+            "Prepositions",
+            "Nouns"
         ],
         "correctAnswer": 3
     },
     {
-        "question": "Which word best completes sentence 9: _____ are orange tulips. My mum's favourite.",
+        "question": "Which of the following is an example of adding '-ly' to an adjective to make it an adverb?",
         "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Which word best completes sentence 10: _____ is a basket full of juicy apples.",
-        "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "What demonstrative pronoun should be used for the sentence \" ______ is my pen.\"",
-        "choices": [
-            "That",
-            "This",
-            "These",
-            "Those"
+            "Sad -> Sadden",
+            "Quick -> Quickly",
+            "Happy -> Happiness",
+            "Friend -> Friendly"
         ],
         "correctAnswer": 1
     },
     {
-        "question": "What demonstrative pronoun should be used for the sentence \" ______ is a bird.\"",
+        "question": "Change 'Quick' into an adverb:",
         "choices": [
-            "This",
-            "That",
-            "Those",
-            "These"
+            "Quickly",
+            "Quicker",
+            "Quickest",
+            "Quickness"
         ],
         "correctAnswer": 0
     },
     {
-        "question": "What demonstrative pronoun should be used for the sentence \" ______ are cakes.\"",
+        "question": "Change 'Eager' into an adverb:",
         "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What demonstrative pronoun should be used for the sentence \"Are ______ your friends?\"",
-        "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What demonstrative pronoun should be used for the sentence \" ______ are animals.\"",
-        "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What demonstrative pronoun should be used for the sentence \" ______ are my notebooks.\"",
-        "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What demonstrative pronoun should be used for the sentence \" ______ is my new dress.\"",
-        "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
+            "Eagerly",
+            "Eagerness",
+            "Eagerer",
+            "Eagerest"
         ],
         "correctAnswer": 0
     },
     {
-        "question": "Which demonstrative pronoun is used for a singular thing that is near?",
+        "question": "Change 'Sweet' into an adverb:",
         "choices": [
-            "That",
-            "Those",
-            "This",
-            "These"
+            "Sweetly",
+            "Sweetness",
+            "Sweeter",
+            "Sweetest"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change 'Rough' into an adverb:",
+        "choices": [
+            "Roughly",
+            "Roughness",
+            "Rougher",
+            "Roughest"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change 'Usual' into an adverb:",
+        "choices": [
+            "Usually",
+            "Usualness",
+            "Usualer",
+            "Usualest"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change 'Loving' into an adverb:",
+        "choices": [
+            "Lovingly",
+            "Lovingness",
+            "Lovinger",
+            "Lovingest"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Where did the child go in the ship?",
+        "choices": [
+            "a faraway island",
+            "far into the sea",
+            "a foreign land"
         ],
         "correctAnswer": 2
     },
     {
-        "question": "Which demonstrative pronoun is used for a singular thing that is far away?",
+        "question": "'A wind came moaning by' means that the wind was",
         "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
+            "slow and gentle",
+            "very near the ship",
+            "blowing loudly"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The ship was caught",
+        "choices": [
+            "in a storm",
+            "in a cloud",
+            "on a rock"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When the child saw the rock he",
+        "choices": [
+            "shouted in joy",
+            "realized he was safe",
+            "knew he would crash"
         ],
         "correctAnswer": 1
     },
     {
-        "question": "Which demonstrative pronoun is used for multiple things that are near?",
+        "question": "The child was saved when",
         "choices": [
-            "This",
-            "That",
-            "These",
-            "Those"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "This pencil belongs to me. It is ______.",
-        "choices": [
-            "me",
-            "mine"
+            "the rain stopped",
+            "he woke from his dream",
+            "the ship stopped sinking"
         ],
         "correctAnswer": 1
     },
     {
-        "question": "Isn't this book ______?",
+        "question": "What is the title of the poem?",
         "choices": [
-            "yours",
-            "you"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "This dictionary belongs to Rohit. It is ______.",
-        "choices": [
-            "his",
-            "its"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "The bottle belongs to John and Emily. The bottle is ______.",
-        "choices": [
-            "ours",
-            "theirs"
+            "The Ship",
+            "A Happy Ending",
+            "Sailing Away",
+            "A Dream"
         ],
         "correctAnswer": 1
     },
     {
-        "question": "This car belongs to Ojas. It is ______.",
+        "question": "According to the poem, where did the speaker find the ship?",
         "choices": [
-            "his",
-            "yours"
+            "In a dream",
+            "On the beach",
+            "Upon the sea",
+            "At the harbor"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 2
     },
     {
-        "question": "These coupons belong to Daisy and I. They are ______.",
+        "question": "What word is used to describe how the waves crashed?",
         "choices": [
-            "his",
-            "ours"
+            "Loudly",
+            "Grandly",
+            "Softly",
+            "Angrily"
         ],
         "correctAnswer": 1
     },
     {
-        "question": "The table belongs to Mr. Jain. That table is ______.",
+        "question": "What did the speaker see straight ahead?",
         "choices": [
-            "his",
-            "theirs"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "The scarf belongs to my niece. The scarf is ______.",
-        "choices": [
-            "hers",
-            "yours"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "This bed belongs to Ria and her mother. The bed is ______.",
-        "choices": [
-            "theirs",
-            "ours"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "This house belongs to us. It is ______.",
-        "choices": [
-            "ours",
-            "his"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "This is my father. _____ is a doctor.",
-        "choices": [
-            "She",
-            "He",
-            "It",
-            "They"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "They are stray dogs. Do not go near _____.",
-        "choices": [
-            "I",
-            "He",
-            "Them",
-            "She"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Here is my mother. _____ is a house wife.",
-        "choices": [
-            "He",
-            "She",
-            "It",
-            "They"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Here is our parrot. _____ likes green chillies.",
-        "choices": [
-            "He",
-            "She",
-            "It",
-            "They"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "My school is very big. _____ has many classrooms.",
-        "choices": [
-            "She",
-            "He",
-            "It",
-            "They"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Karan has a brother. _____ loves _____ a lot.",
-        "choices": [
-            "He, him",
-            "She, her",
-            "It, it",
-            "They, them"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "Ranbeer lives across the street. _____ is my friend.",
-        "choices": [
-            "He",
-            "She",
-            "It",
-            "They"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "The dog was hungry. _____ drank all the milk.",
-        "choices": [
-            "He",
-            "She",
-            "It",
-            "They"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "We are learning to sing. Ask Priya to join _____.",
-        "choices": [
-            "We",
-            "She",
-            "Us",
-            "They"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Rashi and Anmol are running to school. _____ are getting late.",
-        "choices": [
-            "He",
-            "She",
-            "It",
-            "They"
+            "Another ship",
+            "Land",
+            "A storm",
+            "A rock"
         ],
         "correctAnswer": 3
     },
     {
-        "question": "Which of the following is a reflexive pronoun?",
+        "question": "What does 'braced myself' mean, according to the text?",
         "choices": [
-            "me",
-            "mine",
-            "myself",
-            "ours"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Which type of pronoun is 'his'?",
-        "choices": [
-            "Subject",
-            "Object",
-            "Possessive",
-            "Reflexive"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Which pronoun can replace the subject 'they'?",
-        "choices": [
-            "me",
-            "him",
-            "them",
-            "ourselves"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Which of the following is an indefinite pronoun?",
-        "choices": [
-            "himself",
-            "ourselves",
-            "somebody",
-            "themselves"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What type of pronoun is 'it' when it is an object?",
-        "choices": [
-            "Subject",
-            "Object",
-            "Possessive",
-            "Reflexive"
+            "Held on tightly",
+            "Prepared myself",
+            "Covered myself",
+            "Lost balance"
         ],
         "correctAnswer": 1
     },
     {
-        "question": "According to the text, what is a pronoun?",
+        "question": "What broke just as the speaker found themself in bed?",
         "choices": [
-            "A word that describes a noun",
-            "A word used in place of a noun",
-            "A word that modifies a verb",
-            "A word that connects two sentences"
+            "The window",
+            "The ship",
+            "Mast and rigging",
+            "The rock"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a mast?",
+        "choices": [
+            "A type of rope",
+            "A tall pole on a boat or ship",
+            "Fast moving sea",
+            "Small drops of water"
         ],
         "correctAnswer": 1
     },
     {
-        "question": "Which of these is a possessive pronoun?",
+        "question": "Who is the author of this poem?",
         "choices": [
-            "me",
-            "you",
-            "mine",
-            "him"
+            "Unknown",
+            "Enid Blyton",
+            "John Keats",
+            "William Shakespeare"
         ],
-        "correctAnswer": 2
+        "correctAnswer": 1
     },
     {
-        "question": "In the sentence 'He will meet us at the airport', which of these is a pronoun?",
+        "question": "What does speckled mean in the poem?",
         "choices": [
-            "meet",
-            "airport",
-            "He",
-            "at"
+            "Covered with small drops of something",
+            "Filled with excitement",
+            "Completely empty",
+            "Ready for something"
         ],
-        "correctAnswer": 2
+        "correctAnswer": 0
     },
     {
-        "question": "Which of these is a subject pronoun?",
+        "question": "What does NCF stand for?",
         "choices": [
-            "me",
-            "him",
-            "her",
-            "she"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "What type of pronoun is 'ourselves'?",
-        "choices": [
-            "Object",
-            "Possessive",
-            "Reflexive",
-            "Indefinite"
+            "National Children's Foundation",
+            "Noted Common Features",
+            "National Curriculum Framework",
+            "None of the above"
         ],
         "correctAnswer": 2
     }
