@@ -10,6 +10,78 @@
         "correctAnswer": 1
     },
     {
+        "question": "Where did the child go in the ship?",
+        "choices": [
+            "A faraway island",
+            "Far into the sea",
+            "A foreign land"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'A wind came moaning by' mean?",
+        "choices": [
+            "The wind was slow and gentle",
+            "The wind was very near the ship",
+            "The wind was blowing loudly"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was the ship caught in?",
+        "choices": [
+            "A storm",
+            "A cloud",
+            "On a rock"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did the child do when he saw the rock?",
+        "choices": [
+            "Shouted in joy",
+            "Realized he was safe",
+            "Knew he would crash"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How was the child saved?",
+        "choices": [
+            "The rain stopped",
+            "He woke from his dream",
+            "The ship stopped sinking"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the word 'clutched' mean in the poem?",
+        "choices": [
+            "Let go of something",
+            "Held tightly onto something",
+            "Pushed something away"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What happened when the ship struck the rock?",
+        "choices": [
+            "It stayed still",
+            "It began to fill with water",
+            "It turned around"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the meaning of 'racing tide'?",
+        "choices": [
+            "Fast-moving sea",
+            "Calm ocean",
+            "Stormy clouds"
+        ],
+        "correctAnswer": 0
+    },
+    {
         "question": "Adverbs tell us more about:",
         "choices": [
             "Nouns",
